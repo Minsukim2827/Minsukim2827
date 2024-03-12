@@ -1,7 +1,7 @@
 # Hi there, I'm Min! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsukim2827&layout=compact" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsukim2827&layout=compact&hide=HTMl,CSS,SASS,SCSS" height="165">
   <img src="https://github-readme-stats.vercel.app/api?username=Minsukim2827&show_icons=true&theme=radical" height="165">
 </div>
 
